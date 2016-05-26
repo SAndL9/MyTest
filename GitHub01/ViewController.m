@@ -18,7 +18,7 @@
 
 -(void)viewWillAppear:(BOOL)animated{
 
-    
+    NSLog(@"------------");
     
     NSLog(@"+++++++++++++++++");
     
