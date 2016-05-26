@@ -14,8 +14,14 @@
 
 @implementation ViewController
 
+
+
 -(void)viewWillAppear:(BOOL)animated{
 
+    
+    
+    NSLog(@"+++++++++++++++++");
+    
     NSLog(@"================");
     }
 
